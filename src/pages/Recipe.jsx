@@ -17,8 +17,8 @@ function Recipe() {
     }
 
     useEffect(() => {
-        fetchDetails();
-    }, [params.name])
+        fetchDetails(); // eslint-disable-next-line
+    }, [params.name]) 
 
     return (
         <DetailWrapper>
