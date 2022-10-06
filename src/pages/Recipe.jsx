@@ -18,7 +18,7 @@ function Recipe() {
 
     useEffect(() => {
         fetchDetails();
-    }, [params.name])
+    }, [params.name]) // eslint-disable-line react-hooks/exhaustive-deps
 
     return (
         <DetailWrapper>
