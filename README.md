@@ -9,4 +9,3 @@
 > - JSX, HTML, CSS
 (React.js, JavaScript, HTML, CSS/Bootstrap, deployed with Vercel)
 
-[![Image from Gyazo](https://i.gyazo.com/82d7e9ad694fc5cd9ef3351dfa1ca196.gif)](https://gyazo.com/82d7e9ad694fc5cd9ef3351dfa1ca196)
